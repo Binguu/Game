@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  overflow: hidden;
+}
+.header {
+  font-size: 48px;
+  margin-top: 1%;
+  margin-bottom: 20%;
+}
+button {
+  margin: 1%;
+}
+.credentials {
+  margin-bottom: 50%;
+}
+.invalid {
+  visibility: hidden;
+}
